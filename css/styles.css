@@ -1,0 +1,19 @@
+h1 {
+  color: #33CFFF;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ol {
+  line-height: 40px
+}
+img {
+  max-width: 100%;
+  max-height: auto;
+}
